@@ -67,7 +67,7 @@ Imputed missing Values with sensible values.(mean and median).
 # Machine learning:
 
 Based on the problem statement we need to create a supervised ML Regression model, as the target variable is Continuous.
-Here linear regression is applied which gives 65% accuracy.
+Here linear regression is applied which gives 65% accuracy.So, the model isn't very good for predicting the housing prices.
 
 Regressor model performance:
 
